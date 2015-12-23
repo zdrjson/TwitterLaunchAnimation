@@ -1,2 +1,2 @@
 # TwitterLaunchAnimation
-zdrzdr/TwitterLaunchAnimatio
+TwitterLaunchAnimatio
